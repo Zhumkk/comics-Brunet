@@ -54,7 +54,7 @@ export const itemCountStyle = theme => {
                 },
                 '&:hover':{
                     opacity: '0.8',
-                    backgroundColor: '#44af79'
+                    backgroundColor: '#991433'
                 }
             }
         }
