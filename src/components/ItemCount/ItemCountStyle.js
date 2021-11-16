@@ -17,7 +17,7 @@ export const itemCountStyle = theme => {
                     alignSelf: 'center',
                     fontSize: '1.2em',
                     borderRadius: '20px',
-                    backgroundColor: '#991433',
+                    backgroundColor: '#44af79',
                     color: 'white',
                     marginBottom: '10px',
                     border: 'none',
@@ -27,7 +27,7 @@ export const itemCountStyle = theme => {
                     transition: 'opacity 0.2s ease',
                     '&:hover':{
                         opacity: '0.8',
-                        backgroundColor: '#991433'
+                        backgroundColor: '#44af79'
                     },
                 },
                 '& > h4':{
@@ -40,7 +40,7 @@ export const itemCountStyle = theme => {
                 alignSelf: 'center',
                 fontSize: '1.2em',
                 borderRadius: '20px',
-                backgroundColor: '#991433',
+                backgroundColor: '#44af79',
                 color: 'white',
                 padding: '0.5em 1em',
                 marginBottom: '10px',
@@ -54,7 +54,7 @@ export const itemCountStyle = theme => {
                 },
                 '&:hover':{
                     opacity: '0.8',
-                    backgroundColor: '#991433'
+                    backgroundColor: '#44af79'
                 }
             }
         }
