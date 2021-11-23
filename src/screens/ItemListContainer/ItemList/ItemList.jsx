@@ -25,7 +25,7 @@ const myPromise = () => {
                     stock: 15, imagenUrl: '../img/Marvel/marvelSpiderMan.jpg', alt: 'Portada del comic del asombroso Spider Man',
                 },
                 {
-                    id: 4, comic: 'Marvel', title: 'Captain America: Living Legend #1', description: 'Versión de Andy Diggle', price: 450,
+                    id: 4, comic: 'Marvel', title: 'Captain America', description: 'Versión de Andy Diggle', price: 450,
                     stock: 20, imagenUrl: '../img/Marvel/marvelCapitanAmerica.jpg', alt: 'Portada del comic del Capitan America',
                 },
                 {
