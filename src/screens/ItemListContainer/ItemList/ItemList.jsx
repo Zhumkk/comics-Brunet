@@ -14,35 +14,35 @@ const useStyles = makeStyles((theme) => itemListStyle(theme));
         setTimeout(() => resolve (
             [
                 {
-                    id: 1, comic: 'Marvel', title: 'The Incredible Hulk', description: 'Versión de Jason Aaron',
+                    id: 1, comic: 'Marvel', title: 'The Incredible Hulk', description: 'Versión de Jason Aaron, Marc Silvestri, Sunny Gho',
                     price: 300, stock: 10, imagenUrl: '../img/Marvel/marvelHulk.jpg', alt: 'Portada del comic del increible Hulk',
                 },
                 {
-                    id: 2, comic: 'Marvel', title: 'The Invencible Iron Man', description: 'Versión de Bendis', price: 350,
+                    id: 2, comic: 'Marvel', title: 'The Invencible Iron Man', description: 'Versión de John Romita', price: 350,
                     stock: 8, imagenUrl: '../img/Marvel/marvelIronMan.jpg', alt: 'Portada del comic del invencible Iron Man',
                 },
                 {
-                    id: 3, comic: 'Marvel', title: 'The Amazing Spider Man', description: 'Versión de Dan Slott', price: 300,
+                    id: 3, comic: 'Marvel', title: 'The Amazing Spider Man', description: 'Versión de Todd McFarlane', price: 300,
                     stock: 15, imagenUrl: '../img/Marvel/marvelSpiderMan.jpg', alt: 'Portada del comic del asombroso Spider Man',
                 },
                 {
-                    id: 4, comic: 'Marvel', title: 'Captain America', description: 'Versión de Andy Diggle', price: 450,
+                    id: 4, comic: 'Marvel', title: 'Captain America', description: 'Versión de Jack Kirby y Joe Simon', price: 450,
                     stock: 20, imagenUrl: '../img/Marvel/marvelCapitanAmerica.jpg', alt: 'Portada del comic del Capitan America',
                 },
                 {
-                    id: 5, comic: 'DC', title: 'Batman', description: 'Versión de Dennis O´Neil, Grant Morrison',
+                    id: 5, comic: 'DC', title: 'Batman', description: 'Versión de Brian Michael Bendis y Christopher Priest',
                     price: 350, stock: 10, imagenUrl: '../img/DC/dcBatman.jpg', alt: 'Portada del comic de Batman',
                 },
                 {
-                    id: 6, comic: 'DC', title: 'The Flash', description: 'Version de Francis Manapul y Brian Buccellato',
+                    id: 6, comic: 'DC', title: 'The Flash', description: 'Version de Baron, Guice y Mahlstedt',
                     price: 300, stock: 15, imagenUrl: '../img/DC/dcFlash.jpg', alt: 'Portada del comic de Flash',
                 },
                 {
-                    id: 7, comic: 'DC', title: 'La Mujer Maravilla', description: 'Version de Meredith Finch, David Finch.',
+                    id: 7, comic: 'DC', title: 'La Mujer Maravilla', description: 'Version de Chris Sheehan.',
                     price: 300, stock: 11, imagenUrl: '../img/DC/dcMujerMaravilla.jpg', alt: 'Portada del comic de la Mujer Maravilla',
                 },
                 {
-                    id: 8, comic: 'DC', title: 'Superman', description: 'Version de Mark Verheiden',
+                    id: 8, comic: 'DC', title: 'Superman', description: 'Version de René Pérez',
                     price: 400, stock: 7, imagenUrl: '../img/DC/dcSuperman.jpg', alt: 'Portada del comic de Superman',
                 },
                 {
