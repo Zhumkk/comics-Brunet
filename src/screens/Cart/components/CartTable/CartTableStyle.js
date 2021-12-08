@@ -1,12 +1,9 @@
-import { Button } from "@material-ui/core"
-
 export const cartTableStyle = theme => {
     return({
         container:{
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'center',
-            marginTop: '120px'
         },
         headerTable:{
             backgroundColor: '#e6e6e6'
